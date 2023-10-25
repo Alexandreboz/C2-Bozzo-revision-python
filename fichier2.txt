@@ -1,1 +1,1 @@
-6
+Le nombre de mots du fichier 1 est de : 6
